@@ -2,6 +2,8 @@
 
 This repository contains two tools necessary to extract and organize text from the Stellar Blade demo to edit them easily. This has NOT been tested outside of the demo.
 
+The two tools were written by Claude. The guide was created by hand by me.
+
 ## Guide
 
 ### 1. Verify Prerequisites
