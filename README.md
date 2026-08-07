@@ -23,11 +23,14 @@ Repak install guide is here: https://asdfkb.com/Knowledgebase/CLI/Repak
 
 ### 3. Install Stellar Blade Demo
 If you haven't already...
+
 Keep in mind that this mod WAS NOT tested on the full game of Stellar Blade.
 
 ### 4. Set Stellar Blade Directory
 In Steam, right-click the game then select Properties.
+
 Select **Installed Files** then **Browse**.
+
 Copy that entire path and use it below.
 
 ```bash
@@ -63,6 +66,7 @@ Now open the game to verify.
 
 ### 8. Sharing Online
 Go to: `StellarBladeDemo/SB/Content/Paks/~mods/` folder.
+
 Find the `.pak` file and ONLY change the `text` part, leaving the `zzz` and `_P` part alone.
 
 ## Important
